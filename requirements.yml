@@ -1,0 +1,3 @@
+- name: nginx-pagespeed
+  src: git@github.com:paulmaunders/ansible-role-nginx-pagespeed.git
+  scm: git
