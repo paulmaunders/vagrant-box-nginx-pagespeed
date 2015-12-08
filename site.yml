@@ -3,4 +3,4 @@
   sudo: True
   gather_facts: True
   roles:
-    - ansible-role-nginx-pagespeed
+    - vendor/ansible-role-nginx-pagespeed
