@@ -1,5 +1,5 @@
 # vagrant-nginx-pagespeed
-A vagrant file with ansible provisioning which I use on my Centos lab server to test my [nginx pagespeed ansible role](https://github.com/paulmaunders/ansible-role-nginx-pagespeed).
+A vagrant file with ansible provisioning which I use on my Centos lab server to test my [ansible role to install nginx pagespeed from source](https://github.com/paulmaunders/ansible-role-nginx-pagespeed-src).
 # Installing Vagrant and vagrant-libvirt on Centos 7
 To get vagrant running with libvirt on a Centos 7 machine you can use the following steps:
 ```
